@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import logo from './logo.svg';
 import './App.css';
 
@@ -23,3 +24,13 @@ function App() {
 }
 
 export default App;
+=======
+
+export default function App() {
+  return (
+    <h1>Hello world</h1>
+  );
+}
+
+
+>>>>>>> branch1/Made_initial_repo
